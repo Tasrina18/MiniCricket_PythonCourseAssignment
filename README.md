@@ -1,8 +1,8 @@
 # MiniCricket_PythonCourseAssignment
-🏅 Purpose of This Project
+🏏 Hand Cricket Game (Python)
 
-This was my first Python certification assignment, designed to strengthen fundamentals like loops, conditionals, functions, and random number generation.
-I uploaded it to GitHub as part of documenting my coding journey.
+A simple console-based Hand Cricket Game developed as my first assignment in a Python certification course.
+The game simulates a cricket match between the user and the computer using random numbers.
 
 🧠 Game Rules (Simplified)
 
